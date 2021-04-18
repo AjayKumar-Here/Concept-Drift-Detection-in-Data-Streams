@@ -1,3 +1,5 @@
+## Concept Drift Detection in Data Streams Using ADWIND and Naive Bayes classifier
+
 ## AdWin:  ADaptive sliding WINdow algorithm
 
 Based on paper: 
@@ -47,3 +49,5 @@ AdWin:
 Drift detection: 168
 Mean acc within the window 300: 74.65794479341767
 ```
+
+
