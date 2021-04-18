@@ -42,8 +42,13 @@ for i in range(1000):
     if adwin.set_input(i):
         print("Here is a drift")
 ```
+
+**Result**
+
+Window Size = 300
+
 GaussianNB:
-Mean acc within the window 300: 73.22457902031908
+Mean acc within the window 300: 73.22457902031908 
 
 AdWin:
 Drift detection: 168
