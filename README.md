@@ -1,4 +1,4 @@
-## Concept Drift Detection in Data Streams Using ADWIND and Naive Bayes classifier
+## Concept Drift Detection in Data Streams Using ADWIN and Naive Bayes classifier
 
 ## AdWin:  ADaptive sliding WINdow algorithm
 
