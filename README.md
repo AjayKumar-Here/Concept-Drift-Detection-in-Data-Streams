@@ -53,6 +53,5 @@ Mean acc within the window 300: 73.22457902031908
 AdWin:
 Drift detection: 168
 Mean acc within the window 300: 74.65794479341767
-```
 
 ## credits to : https://github.com/jacobmontiel
